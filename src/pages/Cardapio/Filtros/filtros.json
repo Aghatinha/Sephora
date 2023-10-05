@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "label": "Maquiagem"
+    },
+    {
+        "id": 2,
+        "label": "Perfumes"   
+    },
+    {
+        "id": 3,
+        "label": "SkinCare"
+    },
+    {
+        "id": 4,
+        "label": "Cabelos"
+    }
+]
